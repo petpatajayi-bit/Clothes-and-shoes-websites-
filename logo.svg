@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 160" role="img" aria-labelledby="title desc">
+  <title id="title">Sneaker Swap logo</title>
+  <desc id="desc">A stylized sneaker inside a lime green circle</desc>
+  <circle cx="80" cy="80" r="72" fill="#d8f34a"/>
+  <path d="M31 101c9-10 21-16 34-18l14-28c3-6 8-9 14-8l18 4c5 1 8 4 11 8l13 18c4 5 7 10 13 13l7 4c4 2 5 7 2 11-5 7-15 11-25 11H51c-9 0-16-3-20-8-2-2-2-5 0-7Z" fill="#11151a"/>
+  <path d="m78 54 18 4c5 1 8 4 11 8l10 14H69l9-26Z" fill="#f7f7f2"/>
+  <path d="M35 101h78c10 0 17-3 23-8l8 4c4 2 5 7 2 11-5 7-15 11-25 11H51c-9 0-16-3-20-8-2-2-2-5 0-7Z" fill="#d8f34a"/>
+  <path d="M48 103h70M58 95h47M67 86h34" fill="none" stroke="#11151a" stroke-width="4" stroke-linecap="round"/>
+  <path d="m93 61 11 3M88 69l12 3" stroke="#e64b4b" stroke-width="4" stroke-linecap="round"/>
+</svg>
